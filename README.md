@@ -47,10 +47,9 @@ Explore my journey and projects in a single, visually stunning space!
 
 ## 📫 Let's Connect!
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](#)
-- 🐦 Twitter: [Your Twitter Handle](#)
-- 🌟 GitHub: **[github.com/yourusername](https://github.com/yourusername)**
+- 📧 Email: ericsaju22@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/eric-saju-177240256/
+- 🌟 GitHub: https://github.com/Eric-saj22
 
 ---
 
