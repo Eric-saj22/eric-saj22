@@ -19,7 +19,7 @@ Hi there! I'm a **Second-Year Computer Science Student** currently studying at *
 ### 🐍 Python Projects
 1. **Stock Prediction Application:**Developed a web-based Stock Prediction App using Streamlit, integrating Yahoo Finance API for historical data and ARIMA models for trend forecasting. Enhanced user experience with dynamic stock selection, customizable prediction periods, and professional visualizations. **  
    [🔗 View Project Repository](#)  
-2. **Sentiment Analysis Application:** Developed a machine learning-based Sentiment Analysis Application to classify Twitter messages as positive or negative, achieving X% test accuracy. Pre-processed text with NLTK, engineered features using TF-IDF vectorization, and implemented a Random Forest Classifier with reusable prediction functionality for real-time classification. **  
+2. **Sentiment Analysis Application:** Developed a machine learning-based Sentiment Analysis Application to classify Twitter messages as positive or negative, achieving 97% test accuracy. Pre-processed text with NLTK, engineered features using TF-IDF vectorization, and implemented a Random Forest Classifier with reusable prediction functionality for real-time classification.  **  
    [🔗 View Project Repository](#)  
 
 
