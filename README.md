@@ -24,7 +24,7 @@ Hi there! I'm a **Second-Year Computer Science Student** currently studying at *
 
 
 ### 🌐 Portfolio Website
-**Live Demo:** [Portfolio Website](#)  
+**Live Demo:** [https://eric-saj22.github.io/MyPortfolio/](#)  
 Explore my journey and projects in a single, visually stunning space!
 
 ---
